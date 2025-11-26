@@ -92,7 +92,6 @@ void loop(){
   delay(5000);  //iterate every 5 seconds
 }
 ```
---
 
 # Result
 
